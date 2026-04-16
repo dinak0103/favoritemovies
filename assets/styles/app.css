@@ -144,8 +144,8 @@ input:focus {
 .modal .modal__title {
   margin: 0;
   padding: 1rem;
-  border-bottom: 1px solid #00329e;
-  background: #00329e;
+  border-bottom: 1px solid #0F1226;
+  background: #0F1226;
   color: white;
   border-radius: 10px 10px 0 0;
 }
