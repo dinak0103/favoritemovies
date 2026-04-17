@@ -40,3 +40,8 @@ I designed and developed a minimal, user-friendly interface focused on clarity a
 - State management using arrays
 - Local storage (localStorage.setItem, getItem)
 - Conditional UI rendering
+
+## 👩‍💻 Author
+
+**Dina K.**  
+GitHub: [@dinak0103](https://github.com/dinak0103)
